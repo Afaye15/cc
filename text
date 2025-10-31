@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>My Profile</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="A brief introduction to my profile">
+    <h1>Hello There!<br> My name is Aicha</h1>
+ </head>
+    <body>
+        <img src="C:\Users\maimo\Pictures\Screenshots" alt="Profile Picture" class="profile-pic">
+        <p>Aspiring Software engineer</p>
+        <p>About Me<br>Hi! My name is Aicha Faye, I am a highschool Junior<br>
+        who aims to become a reliable and and valuble<br> Software
+        Engineer!</p>
+    </body>
+      <footer>
+         <p>Contact me at: <a href="mailto: aichafaye27@uarockets.org">My email</a>
+         <p>My Projects:</p>
+      
+      </footer>
+    
+
+</html>
